@@ -10,4 +10,4 @@ Open `LoadPapers.groovy` and `LoadCitations.groovy` and update the `inputfiledir
 
 `./graphloader /your/path/to/pindex-example/scripts/LoadCitations.groovy -graph papers`
 
-See [here](https://github.com/upulcranga/pindex) for the original data set.
+See [here](https://github.com/upulcranga/pindex) for the original data set and [here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134794) for the PageRank-Index paper that references it.
